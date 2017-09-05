@@ -61,4 +61,4 @@ html css js prettify 配置
 修改了"js"的"allowed_file_extensions"，增加了.csslintrc文件的支持
 修改了"html"、"css"、"js"的"indent_size"，我的代码缩进为2个空格
 ---------------------------------------------------------------------------
-chrome插件 colorZilla
+chrome插件 colorZilla 、 view image info
