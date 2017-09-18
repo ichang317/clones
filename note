@@ -60,6 +60,10 @@ sublime插件  1. colorHighlighter
 修改了"css"的"selector_separator_newline"，个人觉得没必要每个选择器都要占一行
 修改了"js"的"allowed_file_extensions"，增加了.csslintrc文件的支持
 修改了"html"、"css"、"js"的"indent_size"，我的代码缩进为2个空格
+
+sublime出现 “There are no packages available for installation” 安装不了插件解决方案
+https://packagecontrol.io/installation#st2
+在这下载 Package Control.sublime-package 放到Sublime text 安装目录下的Packages 里面
 ---------------------------------------------------------------------------
 chrome插件 colorZilla 、 view image info
 ---------------------------------------------------------------------------
